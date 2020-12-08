@@ -91,3 +91,29 @@ table{
     table-layout: fixed;
     text-align: center;
 }
+.footer {
+    position: relative;
+    left: 0;
+    height: 200px;
+    width: 100%;
+    background-color: #222222;
+    text-align: center;
+}
+h1, h2{
+    float: center;
+    text-align: center;
+    display: block;
+}
+h3, h4{
+    float: center;
+    text-align: center;
+    display: inline;
+}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    Color: black;
+    font-family:'roboto';
+    margin-left: 50px;
+    margin-right: 50px;
+}
